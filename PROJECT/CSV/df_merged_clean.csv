@@ -1,4 +1,4 @@
-Date,mean,std,volume,daily_return
+Date,mean_sentiment,std_sentiment,daily_volume,daily_return
 2005-01-03,-0.5,0.7071067811865476,2,-0.018394706271058547
 2005-01-06,0.0,0.0,3,0.02797212612222122
 2005-01-07,0.0,0.0,4,0.01530629828298502
